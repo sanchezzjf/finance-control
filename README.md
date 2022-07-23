@@ -1,2 +1,3 @@
-# finance-control
-An App to help you keep track of your life savings
+# Finance Control
+
+An app that is being developed to help people save money
